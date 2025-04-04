@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 
 # Node or frontend
-frontend/
+
 node_modules/
 
 # OS-specific
